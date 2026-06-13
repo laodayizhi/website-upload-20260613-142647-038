@@ -1,0 +1,12 @@
+{
+  "movies": 2000,
+  "html_files": 2015,
+  "detail_files": 2000,
+  "image_files": 0,
+  "missing_baidu_count": 0,
+  "category_covered": 2000,
+  "has_index": true,
+  "has_categories": true,
+  "has_rankings": true,
+  "has_all": true
+}
